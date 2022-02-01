@@ -1,1 +1,24 @@
-<h1 hellow h/>
+<html>
+<head>
+    <title> Nocturnal Nole </title>
+    </head>
+    
+<body>
+    <h1> My unique's name: Nole Wade </h1> 
+    <h2> <EM> I am not related to the first Noel </EM> </h2>
+    
+    <p> I'm undeclared but am thinking of Computer Science </p>
+    <p> My IP address is <EM> 130.64.35.17 </EM> </p>
+    <p> I was born in Cincinnati in the great state <STRONG> Ohio </STRONG> (in a hospital 
+        not a cornfield) but grew up in <STRONG> Northwest Arkansas </STRONG>
+        (in a house not a barn)</p>
+    <p> No one knows that my phone background is from Crystal Bridge's Winter
+        Light Show </p>
+    <p> My favorite place is the carpeted bathroom 
+        <br>
+        <img src="./Ugly-Bathroom.png" alt="Carpeted Bathroom" width="360" height="240" /> 
+        </p>
+        <br>
+    
+    </body>
+</html>
